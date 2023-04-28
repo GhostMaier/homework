@@ -1,0 +1,27 @@
+package Lesson2;
+
+public class Homework2 {
+
+    public static void main(String [] args) {
+
+        int n = 365;
+        int e = 10;
+        int sum = n % e;
+
+        System.out.println(365 % 10);
+
+
+        int d = 36;
+        int sum2 = n / d;
+
+        System.out.println(365 / 10);
+        System.out.println(36 % 10);
+
+
+        int s = 3;
+        int sum3 = n / s;
+
+        System.out.println(365 / 100);
+    }
+
+}
