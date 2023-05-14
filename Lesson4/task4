@@ -1,0 +1,12 @@
+package Lesson4.homework;
+
+public class task4 {
+    public static void main(String[] args) {
+        int pizza24 = 24;
+        int pizza28 = 28;
+        int Cal = 40;
+        int addCal = Cal * (pizza28 - pizza24);
+
+        System.out.println("Дополнительных калорий = " + addCal);
+    }
+}
