@@ -1,0 +1,12 @@
+package Lesson4.homework;
+
+public class task3 {
+
+    public static void main(String[] args) {
+            double euro = 5;
+            double exchangeRate = 2.5;
+
+        System.out.println(euro * exchangeRate);
+
+}
+}
