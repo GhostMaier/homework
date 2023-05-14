@@ -19,6 +19,5 @@ public class task2 {
         System.out.println("Division a / b = " + division);
 
 
-
     }
 }
