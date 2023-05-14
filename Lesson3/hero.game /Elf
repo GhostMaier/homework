@@ -1,0 +1,58 @@
+package Lesson3.hero;
+
+public class Elf {
+  private int id;
+  private long phoneNumber;
+  private char gender;
+  private int age;
+  private String firstName;
+  private String secondName;
+
+    public int getId() {
+        return id;
+    }
+    public void setId(int id) {
+        this.id = id;
+    }
+
+  public long getPhoneNumber() {
+    return phoneNumber;
+  }
+
+  public void setPhoneNumber(long phoneNumber) {
+    this.phoneNumber = phoneNumber;
+  }
+
+  public char getGender() {
+    return gender;
+  }
+
+  public void setGender(char gender) {
+    this.gender = gender;
+  }
+
+  public int getAge() {
+    return age;
+  }
+
+  public void setAge(int age) {
+    this.age = age;
+  }
+
+  public String getFirstName() {
+    return firstName;
+  }
+
+  public void setFirstName(String firstName) {
+    this.firstName = firstName;
+  }
+
+  public String getSecondName() {
+    return secondName;
+  }
+
+  public void setSecondName(String secondName) {
+    this.secondName = secondName;
+  }
+}
+
