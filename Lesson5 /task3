@@ -1,0 +1,15 @@
+package Lesson5.homework;
+
+import java.sql.SQLOutput;
+
+public class task3 {
+    public static void main(String[] args) {
+
+int temperature1 = 185;
+int temperature2 = 85;
+int temp = 100;
+
+        System.out.println(temperature1 > temp || temperature2 < temp);
+
+    }
+}
