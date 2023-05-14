@@ -1,0 +1,14 @@
+package Lesson3.hero;
+
+public class Constant {
+
+    public static void main(String[] args) {
+        int ELF_POWER = 1;
+        int ELF_CHARISMA = 2;
+        int ELF_MAGIC = 3;
+
+        System.out.println("int " + ELF_POWER);
+        System.out.println("int " + ELF_CHARISMA);
+        System.out.println("int " + ELF_MAGIC);
+    }
+}
