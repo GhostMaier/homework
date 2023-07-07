@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TV3 tõsielusari Naudime Elu </title>
+
+
+    <style>
+p { 
+    color: rgb(5, 5, 5);
+    text-align: center;    /* выравнивание */
+    line-height: 1.5;       /* высота строки */
+    letter-spacing: 5px;    /* интервал между символов */
+    text-indent: 0px;      /* отступ абзаца или "красная строка" */
+}
+
+h1 {
+    color: rgb(255, 0, 0);
+    text-align: center;
+    font-size: 18px;
+    line-height: 20px;
+    font-weight: 700;
+    font-family: 'Futura';
+}
+
+h2 {
+    background: rgb(44, 94, 135); 
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+    text-transform: uppercase; 
+    font-family: 'Futura';
+}
+
+h3 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 100;
+    font-family: 'Futura';
+}
+img{
+    max-width: auto;
+    height: 400px;
+}
+    </style>
+
+</head>
+<body>
+        
+    <p class ="aligncenter">
+    <img src="https://turundajateliit.ee/wp-content/uploads/2019/12/tv3_logo20copy-1536x1003.png" style="width: auto; height:80px;">
+</p>
+
+    <h1 class="left"> TV3 eetris iga laupäev kell 10:00 </h1>
+    <h1 class="right"> TV3 life eetris iga pühapäev kell 10:00 </h1>
+        
+        
+    <p class ="aligncenter">
+    <img src="https://estonianworld.com/wp-content/uploads/2023/03/Tallinns-skyline.-Photo-by-Kaupo-Kalda.-1536x1150-1.jpg" alt=" ">
+</p>
+    <h1> 
+        <a href="https://youtube.com/c/NaudimeElu"> Vaadake Youtubis </a>
+    </h1>
+
+
+
+
+
+    <h2> TÕSIELUSARI </h2>
+    <h3> Elamusterohke meelelahutussaade kogu perele, mis tutvustab inimestele nii ekstreemseid elamusi kui ka rahulikumaid tegevusi ⛵🥂🎮￼🔫￼￼🍔￼😋 
+        <br>Särav saatejuht veedab mõnusalt aega, külastades huvitavaid Eestimaa paikasid, kus saab lõbusalt aega veeta, lõõgastuda, avastada uusi elamusi ja nautida elu 😎</br></h3>
+</body>
+</html>
