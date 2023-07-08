@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Homework 21.06.2023</title>
+    
+    <link rel="stylesheet" href="https://maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/css/line-awesome.min.css">
+       
+
+    <style>
+
+       @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400&display=swap');
+
+       * {
+        margin: 0;
+        padding: 0;
+       }
+
+       body {
+        font-family: 'roboto' sans-serif;
+        background: white;
+       }
+
+       div {
+        background: rgb(234, 227, 224);
+        width: 300px;
+        padding: 20px;
+        border-radius: 10px;
+       }
+
+       h1 {
+        color: rgb(192, 35, 0);
+        font-size: 40px;
+        margin-top: 20px;
+        text-align: center;
+       }
+
+       h2 {
+        color: rgb(192, 35, 0);
+        font-size: 12px;
+        margin-bottom: 30px;
+        text-align: center;
+       }
+
+       i {
+        text-decoration: none;
+        font-family: 'Roboto';
+        border-style: black;
+        background: rgb(192, 35, 0);
+        border-style: solid;    
+        border-radius: 20px;
+        border-width: 1px;
+        padding: 10px;
+       }
+
+       button {
+        background: rgb(192, 35, 0);
+        font-family: 'Roboto';
+        font-style: white;
+        font-size: large;
+        text-decoration: none;
+        border-style: solid;    
+        border-radius: 15px;
+        border-width: 1px;
+        padding: 15px;
+
+       }
+
+
+
+
+    </style>
+
+</head>
+
+
+<body>
+   
+    <div>
+        <img scr="https://via.placeholder.com/150" alt="">
+
+        <h1> Harris Willian </h1>
+        <h2> Frontend Developer</h2>
+
+            <div>   
+                <i class="lab la-linkedin-in"></i></a>
+                <i class="lab la-dribbble"></i>
+                <i class="lab la-github"></i>
+                <i class="lab la-behance"></i>
+            </div>
+
+
+                <div class ="button">
+                <button> Download Resume</button>
+                </div> 
+    </div>   
+   
+    
+</body>
+</html>
