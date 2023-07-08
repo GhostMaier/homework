@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form</title>
+
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400&display=swap');
+
+        body {
+            background-color: rgb(226, 226, 226);
+            font-family: Roboto, sans-serif;
+        }
+
+        p { 
+            color: rgb(5, 5, 5);
+            font-family: Roboto;
+            font-size: 12px;
+            text-align: center;    /* выравнивание */
+            line-height: 5%;       /* высота строки */
+            letter-spacing: 0px;    /* интервал между символов */
+            text-indent: 0px;      /* отступ абзаца или "красная строка" */
+        }
+
+
+form {
+    align-items: center;
+}
+
+    </style>
+
+</head>
+
+<body>
+
+<div class ="form">
+
+<h3> Write here </h3>
+
+<form action="">
+        <p>Name:</p>
+        <p><input type="text" placeholder="Enter your Name"></p>
+
+        <p>Password:</p>
+        <p><input type="email" placeholder="Enter your e-mail"></p>
+
+        <p>Message:</p>
+        <p><textarea name="Message" id="" cols="30" rows="10" placeholder="c"></textarea></p>
+        
+        <div>
+       <button type="submit"> SEND </button>
+       </div>
+
+</form>
+</div>
+
+
+    </body>
+</html>
